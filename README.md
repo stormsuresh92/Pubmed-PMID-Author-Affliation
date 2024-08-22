@@ -1,8 +1,8 @@
 # Pubmed-PMID-Author-Affliation
 Develop a Python script to extract the PMID, Author names, and Affiliation details from the PubMed database.
 
-Example:
-Input data format (PubMed text file):
+## Example:
+# Input data format (PubMed text file):
 
 ﻿PMID- 30681767
 OWN - NLM
@@ -78,7 +78,7 @@ PST - ppublish
 SO  - IUBMB Life. 2019 Apr;71(4):430-441. doi: 10.1002/iub.2008. Epub 2019 Jan 25.
 
 
-Output data format:
+# Output data format:
 
 PMID	Author	Affiliation
 30681767	Miyazawa , Taiki	Institute of Biomaterials and Bioengineering , Tokyo Medical and DentalUniversity , Tokyo , Japan.
