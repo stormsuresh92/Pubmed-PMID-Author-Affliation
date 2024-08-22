@@ -1,5 +1,5 @@
 # Pubmed-PMID-Author-Affliation
-Develop a Python script to extract the PMID, Author names, and Affiliation details from the PubMed database.
+Develop a Python script to **extract the PMID, Author names, and Affiliation** details from the PubMed database.
 
 # Input data format (PubMed text file):
 
@@ -82,7 +82,7 @@ SO  - IUBMB Life. 2019 Apr;71(4):430-441. doi: 10.1002/iub.2008. Epub 2019 Jan 2
 PMID	Author	Affiliation
 30681767	Miyazawa , Taiki	Institute of Biomaterials and Bioengineering , Tokyo Medical and DentalUniversity , Tokyo , Japan.
 30681767	Burdeos , Gregor C	Institute for Animal Nutrition and Metabolic Physiology ,Christian-Albrechts-Universität zu Kiel , Kiel , Germany.
-30681767	Itaya , Mayuko	       Food and Biodynamic Chemistry Laboratory , Graduate School of AgriculturalScience , Tohoku University , Sendai , Miyagi , Japan.
+30681767	Itaya , Mayuko	        Food and Biodynamic Chemistry Laboratory , Graduate School of AgriculturalScience , Tohoku University , Sendai , Miyagi , Japan.
 30681767	Nakagawa , Kiyotaka	Food and Biodynamic Chemistry Laboratory , Graduate School of AgriculturalScience , Tohoku University , Sendai , Miyagi , Japan.
 30681767	Miyazawa , Teruo	Food and Health Science Research Unit , Graduate School of Agricultural Science ,Tohoku University , Sendai , Miyagi , Japan.
 30681767	Miyazawa , Teruo	New Industry Creation Hatchery Center (NICHe) , Tohoku University , Sendai , Miyagi ,Japan.
